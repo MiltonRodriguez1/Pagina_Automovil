@@ -1,0 +1,145 @@
+
+#a1{
+	background-repeat: no-repeat; 
+	background-position: center center; 
+	background-attachment: fixed;
+}
+#a2{
+	position: absolute;
+	width: 90%; 
+	height: 750px; 
+	left: center;
+	top: 125px;
+	left: 5%;
+	background-image: './img/carro.jpg';
+	padding:10px; 
+    background-color: #f5f5f5; 
+    border: 1px solid #999999; 
+}
+#a3{
+	width: 100%;
+	position: absolute;
+	height: 80px;
+	background-color: #01A9DB;
+	top: 0%;
+	left: 0%;
+	opacity: 10%;
+}
+#a4{
+	position: absolute;
+	width: 90%; 
+	height: 750px; 
+	left: center;
+	top: 900px;
+	left: 5%;
+
+	padding:10px; 
+    background-color: #f5f5f5; 
+    border: 1px solid #999999; 
+}
+#a5{
+	position: absolute;
+	width: 90%; 
+	height: 350px; 
+	left: center;
+	top: 1680px;
+	left: 5%;
+
+	padding:10px; 
+    background-color: #f5f5f5; 
+    border: 1px solid #999999; 
+}
+#a6{
+	position: absolute;
+	width: 90%; 
+	height: 1150px; 
+	left: center;
+	top: 125px;
+	left: 5%;
+
+	padding:10px; 
+    background-color: #f5f5f5; 
+    border: 1px solid #999999; 
+}
+#t1{
+	position: absolute;
+    left: 40%;
+    font-family: 'Verdana';
+    color: #f5f5f5;
+    size: 75%;
+}
+
+#t2{
+	position: absolute;
+	top: 81px;
+    left: 60px;
+    font-family: 'Verdana';
+    color: #f5f5f5;
+    size: 90%;
+    padding:9px; 
+  
+    border: 4px solid #999999; 
+}
+#t3{
+	position: absolute;
+	top: 81px;
+    left: 143px;
+    font-family: 'Verdana';
+    color: #f5f5f5;
+    size: 90%;
+    padding:9px; 
+  
+    border: 4px solid #999999; 
+}
+
+#t4{
+
+	position: absolute;
+	top: 120px;
+	left: 6%;
+    font-family: 'Verdana';
+    width: 87.7%;
+    size: 78%;
+    padding:9px; 
+    background-color: #f5f5f5;
+    color: #084B8A;
+    opacity: 50%;
+    border: 4px solid #999999; 
+}
+
+
+#i1{
+	width: 33%;
+	height: 40%;
+}
+
+
+#l1{
+
+    color: #777;
+    font: normal 13px arial;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+#tabla{
+
+    border-collapse: separate;
+   border-spacing: 4px;
+   background: white ;
+   color: gray;
+}
+ th {
+   background: #01A9DB;
+   color: gray;
+
+}
+#c1{
+
+  padding: 20px;
+}
+#c2{
+
+   padding: 0px;
+}
